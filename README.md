@@ -21,7 +21,7 @@
 
 <hr>
 
-# Tecnologias e ferramentas
+# Technologies and tools
 
 <p>
 <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
