@@ -1,4 +1,5 @@
 ### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 <i class="devicon-javascript-plain colored"></i>
 <!--
 **brunnoterada/brunnoterada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
